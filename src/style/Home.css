@@ -1,0 +1,43 @@
+
+.home {
+    /* background-image: url('C:\Users\muthw\Documents\job-listing-frontend\src\images\Job.jpeg'); */
+    
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+  }
+
+  
+  .home-content {
+    background-color: rgba(0, 0, 0, 0.6); /* Add transparency */
+    padding: 30px;
+    border-radius: 8px;
+    text-align: center;
+  }
+  
+  nav ul {
+    list-style-type: none;
+  }
+  
+  nav li {
+    display: inline;
+    margin: 0 15px;
+  }
+  
+  nav a {
+    color: white;
+    background-color: black;
+    padding: 8px 16px;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  nav a:hover {
+    background-color: gray;
+  }
+ 
+  

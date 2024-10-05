@@ -1,0 +1,25 @@
+.container{
+    max-width: 400px;
+    margin: 0 auto;
+}
+label{
+    display: block;
+    margin-bottom: 10px;
+}
+input[type="text"],
+
+textarea{
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+input[type="submit"] {
+    background-color: #577973;
+    color: #ece8ea;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+}
